@@ -33,4 +33,4 @@ Sugestões e dúvidas, estou à disposição
 Atenciosamente,
 
 #### Maria Eduarda Assis.
-(Excel | SQL | Power BI | Python |)
+(Excel | SQL | Python |)
