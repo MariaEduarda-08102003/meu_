@@ -2,7 +2,7 @@
 
 Sejam bem vindos! 
 
-O portfólio em questão tem como objetivo mostrar os conhecimentos em SQL, (Power BI) e phyton 
+O portfólio em questão tem como objetivo mostrar os conhecimentos em SQL, Excel e phyton 
 
 
 ## Cenário
