@@ -2,7 +2,7 @@
 
 Sejam bem vindos! 
 
-O portfólio em questão tem como objetivo mostrar os conhecimentos em SQL, Excel e phyton 
+O portfólio em questão tem como objetivo mostrar os conhecimentos em SQL e Excel 
 
 
 ## Cenário
@@ -33,4 +33,4 @@ Sugestões e dúvidas, estou à disposição
 Atenciosamente,
 
 #### Maria Eduarda Assis.
-(Excel | SQL | Python |)
+(Excel | SQL )
